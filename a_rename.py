@@ -7,7 +7,7 @@ if rename_import:
     # Option 1: Rename imported scipy.signal module as signal_ind and use 'signal_main' as variable
     from scipy import signal as signal_ind
 
-    # Main Reusable Var. Name: 'signal_main'
+    # Main Reusable Var. Name: 'signal_main'. NOTE: LOW HANGING FRUIT APPLIED TO OUR VARIABLE NAMING DATA AND RENAMING FOR EACH EX. FILTERED PROCESS.
     signal_main = compute_signal(data)
 
     # Use 'signal_ind' for scipy.signal module funcs.
