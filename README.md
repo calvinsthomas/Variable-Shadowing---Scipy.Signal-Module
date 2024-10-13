@@ -8,4 +8,4 @@ Use-Case Target Demo.: Helps you avoid renaming highly likely reusable variable 
 
 With simple appl. of a-renaming or lambda, we can create interesting combos. of conditional options for multiple imports... Exactly where these errors reside  by defaulting our own user pref. behavior is most likely to clash with our own internal vars name (local vs. module outside scoping) symbology mapping.
 
-ADDITIONAL MATERIALS (SKlio py lib MODULE ~ SKI Combinator Calculus): https://github.com/JuliaPoo/SKIio/blob/main/docs/SKIIO.md
+ADDITIONAL MATERIALS (SKlio py lib MODULE: SKI Combinator Calculus): https://github.com/JuliaPoo/SKIio/blob/main/docs/SKIIO.md
