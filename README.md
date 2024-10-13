@@ -1,4 +1,7 @@
 # Variable-Shadowing---Scipy.Signal-Module
+
+NOTE: THIS REPOSITORY DOES NOT CONTAIN ANY OF MY OWN IP ALGORITHMIC OR QUANTITATIVE TRADING STRATS (MY OWN OUTSIDE IP OWNERSHIP!!!).
+
 Variable Shadowing Toy Ex.: 'scipy.signal' Module
 
 Main Toy Use-Case:
