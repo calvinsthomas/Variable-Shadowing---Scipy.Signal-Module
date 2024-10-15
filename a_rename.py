@@ -1,5 +1,5 @@
 """# Alpha renaming scipy.signal - Toy Ex.
-# Boolean flag to control variable shadowing strategy"""
+# Boolean flag to control variable shadowing"""
 rename_import = True  # Set as False chooses Option 2
 
 # Conditional import and variable naming using alpha renaming
